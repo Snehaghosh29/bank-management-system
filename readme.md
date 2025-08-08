@@ -52,11 +52,9 @@ This project demonstrates core banking functionalities such as account creation,
 
 \##  Tech Stack
 
-\- \*\*Programming Language:\*\* Java / Python / C++ (update based on your implementation)
+\- \*\*Programming Language: Python - \*\*Database:\*\* MySQL
 
-\- \*\*Database:\*\* MySQL / SQLite (update if applicable)
-
-\- \*\*UI:\*\* Console-based / GUI (Swing, JavaFX, or Web Interface)
+\- \*\*UI:\*\*tkinter 
 
 \- \*\*Version Control:\*\* Git \& GitHub
 
